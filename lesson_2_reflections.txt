@@ -21,3 +21,7 @@ I guess it's better to look sth than just to hear about it. This way you have a 
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 We keep all the changes made be two different routes. To make it clear for how the changes happened.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pros: Git does the hard work, it's often difficult and saves you the time.
+Cons: You miss the action and may ignore what really happened.
