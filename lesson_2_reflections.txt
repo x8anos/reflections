@@ -15,3 +15,6 @@ The relevancy here is about logical changes.
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 My first thought goes to a case where you need two or more working scenarios, perhaps because you need to test your
 product or because you target different groups. In that cases with branches help , you can minimize the problem.
+
+How do the diagrams help you visualize the branch structure?
+I guess it's better to look sth than just to hear about it. This way you have a better understanding of it.
