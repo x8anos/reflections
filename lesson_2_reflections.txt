@@ -18,3 +18,6 @@ product or because you target different groups. In that cases with branches help
 
 How do the diagrams help you visualize the branch structure?
 I guess it's better to look sth than just to hear about it. This way you have a better understanding of it.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+We keep all the changes made be two different routes. To make it clear for how the changes happened.
