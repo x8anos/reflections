@@ -3,3 +3,8 @@ When i'm obliged working from another pc or perhaps i'm sharing a project.
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Cause i may not want to make public some of my recent changes.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+I clone when i just need a copy in my own computer to use it locally with no intension to push it pack on Git.
+If i want it as a remote on Github i will fork it. Now i will branch my project if i want to keep to different
+storylines of it whith a different path.
