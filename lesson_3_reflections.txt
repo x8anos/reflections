@@ -8,3 +8,6 @@ Describe the differences between forks, clones, and branches. When would you use
 I clone when i just need a copy in my own computer to use it locally with no intension to push it pack on Git.
 If i want it as a remote on Github i will fork it. Now i will branch my project if i want to keep to different
 storylines of it whith a different path.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+You can manipulate changes while offline.
